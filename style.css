@@ -2221,7 +2221,7 @@ textarea.w-select {
 }
 
 .hero {
-	min-height: 100vh;
+	min-height: 95vh;
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
